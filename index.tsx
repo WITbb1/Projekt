@@ -11,7 +11,7 @@ import AddTask from './pages/AddTask';
 
 ReactDOM.render(
   <React.StrictMode>
-    <AddTask />
+    <Main  />
   </React.StrictMode>,
   document.getElementById('root')
 );
