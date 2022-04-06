@@ -1,7 +1,7 @@
 import React from 'react';
 import './Style.css';
-import Navigation from '../components/Navigation';
-import TaskBox from '../components/TaskBox';
+import NavigationUser from '../components/NavigationUser';
+import AddTask from '../components/AddTaskBox';
 
 
 const App: React.FC = () => {
@@ -9,8 +9,8 @@ const App: React.FC = () => {
     <div className="App">
       <span className="heading">PLACEHOLDER</span>      
 
-      <Navigation></Navigation>
-      <TaskBox></TaskBox>
+      <NavigationUser></NavigationUser>
+      <AddTask></AddTask>
     </div>
 
 
