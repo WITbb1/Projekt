@@ -1,6 +1,20 @@
 {
   "data": [
       {"Nazwa": "z1","Status": "aktywny","Typ": "zadanie","Godziny": "5","Piorytet": "wysoki","Pracownik": "adam"},
-      {"Nazwa": "z1","Status": "aktywny","Typ": "zadanie","Godziny": "P2","Piorytet": "wysoki","Pracownik": "adam"}
+      {"Nazwa": "z2","Status": "aktywny","Typ": "zadanie","Godziny": "5","Piorytet": "wysoki","Pracownik": "adam"},
+      {"Nazwa": "z3","Status": "aktywny","Typ": "zadanie","Godziny": "5","Piorytet": "wysoki","Pracownik": "adam"},
+      {"Nazwa": "z4","Status": "aktywny","Typ": "zadanie","Godziny": "5","Piorytet": "wysoki","Pracownik": "adam"},
+      {"Nazwa": "z5","Status": "aktywny","Typ": "zadanie","Godziny": "5","Piorytet": "wysoki","Pracownik": "adam"},
+      {"Nazwa": "z6","Status": "aktywny","Typ": "zadanie","Godziny": "5","Piorytet": "wysoki","Pracownik": "adam"},
+      {"Nazwa": "z7","Status": "aktywny","Typ": "zadanie","Godziny": "42","Piorytet": "wysoki","Pracownik": "adam"},
+      {"Nazwa": "z8","Status": "nieaktywny","Typ": "zadanie","Godziny": "5","Piorytet": "wysoki","Pracownik": "adam"},
+      {"Nazwa": "z9","Status": "aktywny","Typ": "zadanie","Godziny": "5","Piorytet": "wysoki","Pracownik": "adam"},
+      {"Nazwa": "z10","Status": "nieaktywny","Typ": "zadanie","Godziny": "2","Piorytet": "wysoki","Pracownik": "adam"},
+      {"Nazwa": "z11","Status": "aktywny","Typ": "zadanie","Godziny": "5","Piorytet": "wysoki","Pracownik": "adam"},
+      {"Nazwa": "z12","Status": "aktywny","Typ": "zadanie","Godziny": "5","Piorytet": "wysoki","Pracownik": "adam"},
+      {"Nazwa": "z12","Status": "aktywny","Typ": "zadanie","Godziny": "5","Piorytet": "wysoki","Pracownik": "adam"},
+      {"Nazwa": "z13","Status": "aktywny","Typ": "zadanie","Godziny": "5","Piorytet": "wysoki","Pracownik": "adam"},
+      {"Nazwa": "z14","Status": "aktywny","Typ": "zadanie","Godziny": "5","Piorytet": "wysoki","Pracownik": "adam"},
+      {"Nazwa": "z15","Status": "aktywny","Typ": "zadanie","Godziny": "11","Piorytet": "wysoki","Pracownik": "adam"}
      ]
 }
